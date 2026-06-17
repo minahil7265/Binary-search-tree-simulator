@@ -47,18 +47,29 @@ g++ main.cpp -o bst
 **run**
 ./bst
 
-Output Example
+## 📊 Sample Output Includes
 
-Performance table of insert & traversal times
-Tree traversal outputs
-Deletion updates step-by-step
-💡 Learning Outcomes
-Understanding BST operations
-Time complexity analysis
-Performance benchmarking in C++
-Recursion in data structures
+- Performance comparison table (Insert vs Traversal time)
+- Tree traversals:
+  - Inorder
+  - Preorder
+  - Postorder
+- Search results (FOUND / NOT FOUND)
+- Deletion updates with live tree state after each operation
 
-👩‍💻 Author
+---
 
-Minahil Iqbal
-C++ | Data Structures | Algorithms Learner
+## 🎯 Learning Outcomes
+
+- Understanding Binary Search Tree (BST) structure and working
+- Implementing recursion in data structures
+- Performance benchmarking using C++
+- Analyzing time complexity of operations
+- Strengthening problem-solving skills in DSA
+
+---
+
+## 👩‍💻 Author
+
+**Minahil Iqbal**  
+C++ Developer | Data Structures & Algorithms Learner
