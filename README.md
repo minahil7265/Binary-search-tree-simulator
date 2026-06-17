@@ -47,17 +47,32 @@ g++ main.cpp -o bst
 **run**
 ./bst
 
-## 📊 Sample Output Includes
+## 📊 Sample Output
 
-- Performance comparison table (Insert vs Traversal time)
-- Tree traversals:
-  - Inorder
-  - Preorder
-  - Postorder
-- Search results (FOUND / NOT FOUND)
-- Deletion updates with live tree state after each operation
+### ⚙️ Performance Comparison
+- Shows insertion time vs traversal time (measured using `chrono`)
+- Multiple test sets (5 × 100 random values)
+- Average execution time calculated
 
 ---
+
+### 🌳 Tree Traversals
+- Inorder Traversal
+- Preorder Traversal
+- Postorder Traversal
+
+---
+
+### 🔍 Search Results
+- Displays whether elements are **FOUND** or **NOT FOUND** in the BST
+
+---
+
+### ❌ Deletion Operations
+- Nodes are deleted step-by-step
+- Tree updates are shown after each deletion
+- Live BST structure is displayed after every operation
+
 
 ## 🎯 Learning Outcomes
 
